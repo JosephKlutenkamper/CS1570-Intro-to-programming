@@ -1,0 +1,16 @@
+Name: Joseph Klutenkamper
+1.Egg problem
+   Steps:
+           1.Drop one egg from the middle level of the building.
+
+           2.If the egg breaks or does not break eliminate the possiblity of
+             the other levels corresponding.
+  
+           3.Then drop the egg from the middle level of the remaining levels
+             if there is no middle level then drop it form the next
+             remaining possible level.
+   
+           4. Repeat step 2 and 3 until you have found the lowest level that breaks
+              the egg.     
+           
+             

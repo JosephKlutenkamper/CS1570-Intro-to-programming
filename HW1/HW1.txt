@@ -1,0 +1,72 @@
+Name: Joseph Klutenkamper
+Date: 1/26/2017
+Class: cs1570
+instructor: Mardham D,
+
+Homework Assignment 1.
+
+1.Egg problem
+   Steps:
+           1.Drop one egg from the middle level of the building.
+
+           2.If the egg breaks or does not break eliminate the possiblity of
+             the other levels corresponding.
+  
+           3.Then drop the egg from the middle level of the remaining levels
+             if there is no middle level then drop it form the next
+             remaining possible level.
+   
+           4.Repeat step 2 and 3 until you have found the lowest level that breaks
+             the egg.     
+           
+
+2.Work algorithm 
+   Steps:
+           1.User input start date of work week.
+
+           2.User input end date of work week (must be 4 weeks apart).
+
+           3.User input of sick days if and when. If sick day one is earlier
+             than week 2 of work week then calculate that as unqualified
+             work day. Do this again if second sick day is before week 4.
+           
+           4.Add up the hours such that every week is 40 hours and every day
+             is 8 horus then subtract any unqualified sick days.
+          
+           5.Divide total hours by 4 if the result is less than 30 there is
+             no (OP) if it is more than 30 then it is base pay multiplied by 1.5. If it 
+             is over 40 but under 80 then its base pay multiplied by 2.0. If it is over
+             80 then the subject is fired.
+
+           6.If employee works 40 hours overtime and only took one sick day
+             they get thier base pay multiplied by 30.
+
+           7.Display output.    
+
+
+3.Lexicographic difference. 
+   Steps:
+         1.Assume all lowercase letters have the values 97 through 122
+            starting with a.
+          
+         2.Assume all uppercase letters have the value 65 through 90
+           starting at A.
+ 
+         3.Assume all cases where the words are the same become null.
+
+         4.User inputs two words.
+
+         5.From left to right compare both words until finding a different
+           letter
+     
+         6.Subtract the numerical value of said letters if one word is
+           longer have the space where a letter should be located on the end of the
+           word become the null value.
+         
+         7.Take the absolute value of that difference.
+
+         8.Display output.
+   
+            
+ 
+   

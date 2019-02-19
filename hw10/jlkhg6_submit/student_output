@@ -1,0 +1,700 @@
+Script started on Wed 03 May 2017 11:55:53 AM CDT
+g++ -Wall -W -s -pedantic-errors *.cpp -o 53drv && ./53drv && rm ./53drv
+[01m[Ktown.cpp:[m[K In member function '[01m[Kbool town::buypants(int, int)[m[K':
+[01m[Ktown.cpp:173:1:[m[K [01;35m[Kwarning: [m[Kcontrol reaches end of non-void function [-Wreturn-type]
+ }
+[01;32m[K ^[m[K
+99Millhouse Moved up.
+
+A ghost has been placed at14,11
+
+Millhouse is alive and at (11,13) has 30 pants 31 money and 99 health
+|W W W W W W W W W W W W W W W W W W|
+|W         H   H                   W|
+|W H     B         H B H           W|
+|W         H   H     H B           W|
+|W     H             H       B     W|
+|W       H       H H       H       W|
+|W       H H             H         W|
+|W H           B           H   B   W|
+|W               H     H B   H   H W|
+|W                 H               W|
+|W         H     H       M         W|
+|W     B   H   H   H               W|
+|W   H                             W|
+|W       H       H         H     H W|
+|W B                 H P         H W|
+|W         H B H     H             W|
+|W                 H   H B         W|
+|W W W W W W W W W W W W W W W W W W|
+
+Millhouse is alive and at (11,13) has 30 pants 31 money and 99 health
+|W W W W W W W W W W W W W W W W W W|
+|W         H   H                   W|
+|W H     B         H B H           W|
+|W         H   H     H B           W|
+|W     H             H       B     W|
+|W       H       H H       H       W|
+|W       H H             H         W|
+|W H           B           H   B   W|
+|W               H     H B   H   H W|
+|W                 H               W|
+|W         H     H       M         W|
+|W     B   H   H   H               W|
+|W   H                             W|
+|W       H       H         H     H W|
+|W B                 H P         H W|
+|W         H B H     H             W|
+|W                 H   H B         W|
+|W W W W W W W W W W W W W W W W W W|
+
+Millhouse is alive and at (11,13) has 30 pants 31 money and 99 health
+|W W W W W W W W W W W W W W W W W W|
+|W         H   H                   W|
+|W H     B         H B H           W|
+|W         H   H     H B           W|
+|W     H             H       B     W|
+|W       H       H H       H       W|
+|W       H H             H         W|
+|W H           B           H   B   W|
+|W               H     H B   H   H W|
+|W                 H               W|
+|W         H     H       M         W|
+|W     B   H   H   H               W|
+|W   H                             W|
+|W       H       H         H     H W|
+|W B                 H P         H W|
+|W         H B H     H             W|
+|W                 H   H B         W|
+|W W W W W W W W W W W W W W W W W W|
+
+Millhouse is alive and at (11,13) has 30 pants 31 money and 99 health
+|W W W W W W W W W W W W W W W W W W|
+|W         H   H                   W|
+|W H     B         H B H           W|
+|W         H   H     H B           W|
+|W     H             H       B     W|
+|W       H       H H       H       W|
+|W       H H             H         W|
+|W H           B           H   B   W|
+|W               H     H B   H   H W|
+|W                 H               W|
+|W         H     H       M         W|
+|W     B   H   H   H               W|
+|W   H                             W|
+|W       H       H         H     H W|
+|W B                 H P         H W|
+|W         H B H     H             W|
+|W                 H   H B         W|
+|W W W W W W W W W W W W W W W W W W|
+
+Millhouse is alive and at (11,13) has 30 pants 31 money and 99 health
+|W W W W W W W W W W W W W W W W W W|
+|W         H   H                   W|
+|W H     B         H B H           W|
+|W         H   H     H B           W|
+|W     H             H       B     W|
+|W       H       H H       H       W|
+|W       H H             H         W|
+|W H           B           H   B   W|
+|W               H     H B   H   H W|
+|W                 H               W|
+|W         H     H       M         W|
+|W     B   H   H   H               W|
+|W   H                             W|
+|W       H       H         H     H W|
+|W B                 H P         H W|
+|W         H B H     H             W|
+|W                 H   H B         W|
+|W W W W W W W W W W W W W W W W W W|
+
+Millhouse is alive and at (11,13) has 30 pants 31 money and 99 health
+|W W W W W W W W W W W W W W W W W W|
+|W         H   H                   W|
+|W H     B         H B H           W|
+|W         H   H     H B           W|
+|W     H             H       B     W|
+|W       H       H H       H       W|
+|W       H H             H         W|
+|W H           B           H   B   W|
+|W               H     H B   H   H W|
+|W                 H               W|
+|W         H     H       M         W|
+|W     B   H   H   H               W|
+|W   H                             W|
+|W       H       H         H     H W|
+|W B                 H P         H W|
+|W         H B H     H             W|
+|W                 H   H B         W|
+|W W W W W W W W W W W W W W W W W W|
+
+Millhouse is alive and at (11,13) has 30 pants 31 money and 99 health
+|W W W W W W W W W W W W W W W W W W|
+|W         H   H                   W|
+|W H     B         H B H           W|
+|W         H   H     H B           W|
+|W     H             H       B     W|
+|W       H       H H       H       W|
+|W       H H             H         W|
+|W H           B           H   B   W|
+|W               H     H B   H   H W|
+|W                 H               W|
+|W         H     H       M         W|
+|W     B   H   H   H               W|
+|W   H                             W|
+|W       H       H         H     H W|
+|W B                 H P         H W|
+|W         H B H     H             W|
+|W                 H   H B         W|
+|W W W W W W W W W W W W W W W W W W|
+
+Millhouse is alive and at (11,13) has 30 pants 31 money and 99 health
+|W W W W W W W W W W W W W W W W W W|
+|W         H   H                   W|
+|W H     B         H B H           W|
+|W         H   H     H B           W|
+|W     H             H       B     W|
+|W       H       H H       H       W|
+|W       H H             H         W|
+|W H           B           H   B   W|
+|W               H     H B   H   H W|
+|W                 H               W|
+|W         H     H       M         W|
+|W     B   H   H   H               W|
+|W   H                             W|
+|W       H       H         H     H W|
+|W B                 H P         H W|
+|W         H B H     H             W|
+|W                 H   H B         W|
+|W W W W W W W W W W W W W W W W W W|
+
+Millhouse is alive and at (11,13) has 30 pants 31 money and 99 health
+|W W W W W W W W W W W W W W W W W W|
+|W         H   H                   W|
+|W H     B         H B H           W|
+|W         H   H     H B           W|
+|W     H             H       B     W|
+|W       H       H H       H       W|
+|W       H H             H         W|
+|W H           B           H   B   W|
+|W               H     H B   H   H W|
+|W                 H               W|
+|W         H     H       M         W|
+|W     B   H   H   H               W|
+|W   H                             W|
+|W       H       H         H     H W|
+|W B                 H P         H W|
+|W         H B H     H             W|
+|W                 H   H B         W|
+|W W W W W W W W W W W W W W W W W W|
+
+Millhouse is alive and at (11,13) has 30 pants 31 money and 99 health
+|W W W W W W W W W W W W W W W W W W|
+|W         H   H                   W|
+|W H     B         H B H           W|
+|W         H   H     H B           W|
+|W     H             H       B     W|
+|W       H       H H       H       W|
+|W       H H             H         W|
+|W H           B           H   B   W|
+|W               H     H B   H   H W|
+|W                 H               W|
+|W         H     H       M         W|
+|W     B   H   H   H               W|
+|W   H                             W|
+|W       H       H         H     H W|
+|W B                 H P         H W|
+|W         H B H     H             W|
+|W                 H   H B         W|
+|W W W W W W W W W W W W W W W W W W|
+
+Millhouse is alive and at (11,13) has 30 pants 31 money and 99 health
+|W W W W W W W W W W W W W W W W W W|
+|W         H   H                   W|
+|W H     B         H B H           W|
+|W         H   H     H B           W|
+|W     H             H       B     W|
+|W       H       H H       H       W|
+|W       H H             H         W|
+|W H           B           H   B   W|
+|W               H     H B   H   H W|
+|W                 H               W|
+|W         H     H       M         W|
+|W     B   H   H   H               W|
+|W   H                             W|
+|W       H       H         H     H W|
+|W B                 H P         H W|
+|W         H B H     H             W|
+|W                 H   H B         W|
+|W W W W W W W W W W W W W W W W W W|
+
+Millhouse is alive and at (11,13) has 30 pants 31 money and 99 health
+|W W W W W W W W W W W W W W W W W W|
+|W         H   H                   W|
+|W H     B         H B H           W|
+|W         H   H     H B           W|
+|W     H             H       B     W|
+|W       H       H H       H       W|
+|W       H H             H         W|
+|W H           B           H   B   W|
+|W               H     H B   H   H W|
+|W                 H               W|
+|W         H     H       M         W|
+|W     B   H   H   H               W|
+|W   H                             W|
+|W       H       H         H     H W|
+|W B                 H P         H W|
+|W         H B H     H             W|
+|W                 H   H B         W|
+|W W W W W W W W W W W W W W W W W W|
+
+Millhouse is alive and at (11,13) has 30 pants 31 money and 99 health
+|W W W W W W W W W W W W W W W W W W|
+|W         H   H                   W|
+|W H     B         H B H           W|
+|W         H   H     H B           W|
+|W     H             H       B     W|
+|W       H       H H       H       W|
+|W       H H             H         W|
+|W H           B           H   B   W|
+|W               H     H B   H   H W|
+|W                 H               W|
+|W         H     H       M         W|
+|W     B   H   H   H               W|
+|W   H                             W|
+|W       H       H         H     H W|
+|W B                 H P         H W|
+|W         H B H     H             W|
+|W                 H   H B         W|
+|W W W W W W W W W W W W W W W W W W|
+
+Millhouse is alive and at (11,13) has 30 pants 31 money and 99 health
+|W W W W W W W W W W W W W W W W W W|
+|W         H   H                   W|
+|W H     B         H B H           W|
+|W         H   H     H B           W|
+|W     H             H       B     W|
+|W       H       H H       H       W|
+|W       H H             H         W|
+|W H           B           H   B   W|
+|W               H     H B   H   H W|
+|W                 H               W|
+|W         H     H       M         W|
+|W     B   H   H   H               W|
+|W   H                             W|
+|W       H       H         H     H W|
+|W B                 H P         H W|
+|W         H B H     H             W|
+|W                 H   H B         W|
+|W W W W W W W W W W W W W W W W W W|
+
+Millhouse is alive and at (11,13) has 30 pants 31 money and 99 health
+|W W W W W W W W W W W W W W W W W W|
+|W         H   H                   W|
+|W H     B         H B H           W|
+|W         H   H     H B           W|
+|W     H             H       B     W|
+|W       H       H H       H       W|
+|W       H H             H         W|
+|W H           B           H   B   W|
+|W               H     H B   H   H W|
+|W                 H               W|
+|W         H     H       M         W|
+|W     B   H   H   H               W|
+|W   H                             W|
+|W       H       H         H     H W|
+|W B                 H P         H W|
+|W         H B H     H             W|
+|W                 H   H B         W|
+|W W W W W W W W W W W W W W W W W W|
+
+Millhouse is alive and at (11,13) has 30 pants 31 money and 99 health
+|W W W W W W W W W W W W W W W W W W|
+|W         H   H                   W|
+|W H     B         H B H           W|
+|W         H   H     H B           W|
+|W     H             H       B     W|
+|W       H       H H       H       W|
+|W       H H             H         W|
+|W H           B           H   B   W|
+|W               H     H B   H   H W|
+|W                 H               W|
+|W         H     H       M         W|
+|W     B   H   H   H               W|
+|W   H                             W|
+|W       H       H         H     H W|
+|W B                 H P         H W|
+|W         H B H     H             W|
+|W                 H   H B         W|
+|W W W W W W W W W W W W W W W W W W|
+
+Millhouse is alive and at (11,13) has 30 pants 31 money and 99 health
+|W W W W W W W W W W W W W W W W W W|
+|W         H   H                   W|
+|W H     B         H B H           W|
+|W         H   H     H B           W|
+|W     H             H       B     W|
+|W       H       H H       H       W|
+|W       H H             H         W|
+|W H           B           H   B   W|
+|W               H     H B   H   H W|
+|W                 H               W|
+|W         H     H       M         W|
+|W     B   H   H   H               W|
+|W   H                             W|
+|W       H       H         H     H W|
+|W B                 H P         H W|
+|W         H B H     H             W|
+|W                 H   H B         W|
+|W W W W W W W W W W W W W W W W W W|
+
+Millhouse is alive and at (11,13) has 30 pants 31 money and 99 health
+|W W W W W W W W W W W W W W W W W W|
+|W         H   H                   W|
+|W H     B         H B H           W|
+|W         H   H     H B           W|
+|W     H             H       B     W|
+|W       H       H H       H       W|
+|W       H H             H         W|
+|W H           B           H   B   W|
+|W               H     H B   H   H W|
+|W                 H               W|
+|W         H     H       M         W|
+|W     B   H   H   H               W|
+|W   H                             W|
+|W       H       H         H     H W|
+|W B                 H P         H W|
+|W         H B H     H             W|
+|W                 H   H B         W|
+|W W W W W W W W W W W W W W W W W W|
+
+Millhouse is alive and at (11,13) has 30 pants 31 money and 99 health
+|W W W W W W W W W W W W W W W W W W|
+|W         H   H                   W|
+|W H     B         H B H           W|
+|W         H   H     H B           W|
+|W     H             H       B     W|
+|W       H       H H       H       W|
+|W       H H             H         W|
+|W H           B           H   B   W|
+|W               H     H B   H   H W|
+|W                 H               W|
+|W         H     H       M         W|
+|W     B   H   H   H               W|
+|W   H                             W|
+|W       H       H         H     H W|
+|W B                 H P         H W|
+|W         H B H     H             W|
+|W                 H   H B         W|
+|W W W W W W W W W W W W W W W W W W|
+
+Millhouse is alive and at (11,13) has 30 pants 31 money and 99 health
+|W W W W W W W W W W W W W W W W W W|
+|W         H   H                   W|
+|W H     B         H B H           W|
+|W         H   H     H B           W|
+|W     H             H       B     W|
+|W       H       H H       H       W|
+|W       H H             H         W|
+|W H           B           H   B   W|
+|W               H     H B   H   H W|
+|W                 H               W|
+|W         H     H       M         W|
+|W     B   H   H   H               W|
+|W   H                             W|
+|W       H       H         H     H W|
+|W B                 H P         H W|
+|W         H B H     H             W|
+|W                 H   H B         W|
+|W W W W W W W W W W W W W W W W W W|
+
+Millhouse is alive and at (11,13) has 30 pants 31 money and 99 health
+|W W W W W W W W W W W W W W W W W W|
+|W         H   H                   W|
+|W H     B         H B H           W|
+|W         H   H     H B           W|
+|W     H             H       B     W|
+|W       H       H H       H       W|
+|W       H H             H         W|
+|W H           B           H   B   W|
+|W               H     H B   H   H W|
+|W                 H               W|
+|W         H     H       M         W|
+|W     B   H   H   H               W|
+|W   H                             W|
+|W       H       H         H     H W|
+|W B                 H P         H W|
+|W         H B H     H             W|
+|W                 H   H B         W|
+|W W W W W W W W W W W W W W W W W W|
+
+Millhouse is alive and at (11,13) has 30 pants 31 money and 99 health
+|W W W W W W W W W W W W W W W W W W|
+|W         H   H                   W|
+|W H     B         H B H           W|
+|W         H   H     H B           W|
+|W     H             H       B     W|
+|W       H       H H       H       W|
+|W       H H             H         W|
+|W H           B           H   B   W|
+|W               H     H B   H   H W|
+|W                 H               W|
+|W         H     H       M         W|
+|W     B   H   H   H               W|
+|W   H                             W|
+|W       H       H         H     H W|
+|W B                 H P         H W|
+|W         H B H     H             W|
+|W                 H   H B         W|
+|W W W W W W W W W W W W W W W W W W|
+
+Millhouse is alive and at (11,13) has 30 pants 31 money and 99 health
+|W W W W W W W W W W W W W W W W W W|
+|W         H   H                   W|
+|W H     B         H B H           W|
+|W         H   H     H B           W|
+|W     H             H       B     W|
+|W       H       H H       H       W|
+|W       H H             H         W|
+|W H           B           H   B   W|
+|W               H     H B   H   H W|
+|W                 H               W|
+|W         H     H       M         W|
+|W     B   H   H   H               W|
+|W   H                             W|
+|W       H       H         H     H W|
+|W B                 H P         H W|
+|W         H B H     H             W|
+|W                 H   H B         W|
+|W W W W W W W W W W W W W W W W W W|
+
+Millhouse is alive and at (11,13) has 30 pants 31 money and 99 health
+|W W W W W W W W W W W W W W W W W W|
+|W         H   H                   W|
+|W H     B         H B H           W|
+|W         H   H     H B           W|
+|W     H             H       B     W|
+|W       H       H H       H       W|
+|W       H H             H         W|
+|W H           B           H   B   W|
+|W               H     H B   H   H W|
+|W                 H               W|
+|W         H     H       M         W|
+|W     B   H   H   H               W|
+|W   H                             W|
+|W       H       H         H     H W|
+|W B                 H P         H W|
+|W         H B H     H             W|
+|W                 H   H B         W|
+|W W W W W W W W W W W W W W W W W W|
+
+Millhouse is alive and at (11,13) has 30 pants 31 money and 99 health
+|W W W W W W W W W W W W W W W W W W|
+|W         H   H                   W|
+|W H     B         H B H           W|
+|W         H   H     H B           W|
+|W     H             H       B     W|
+|W       H       H H       H       W|
+|W       H H             H         W|
+|W H           B           H   B   W|
+|W               H     H B   H   H W|
+|W                 H               W|
+|W         H     H       M         W|
+|W     B   H   H   H               W|
+|W   H                             W|
+|W       H       H         H     H W|
+|W B                 H P         H W|
+|W         H B H     H             W|
+|W                 H   H B         W|
+|W W W W W W W W W W W W W W W W W W|
+
+Millhouse is alive and at (11,13) has 30 pants 31 money and 99 health
+|W W W W W W W W W W W W W W W W W W|
+|W         H   H                   W|
+|W H     B         H B H           W|
+|W         H   H     H B           W|
+|W     H             H       B     W|
+|W       H       H H       H       W|
+|W       H H             H         W|
+|W H           B           H   B   W|
+|W               H     H B   H   H W|
+|W                 H               W|
+|W         H     H       M         W|
+|W     B   H   H   H               W|
+|W   H                             W|
+|W       H       H         H     H W|
+|W B                 H P         H W|
+|W         H B H     H             W|
+|W                 H   H B         W|
+|W W W W W W W W W W W W W W W W W W|
+
+Millhouse is alive and at (11,13) has 30 pants 31 money and 99 health
+|W W W W W W W W W W W W W W W W W W|
+|W         H   H                   W|
+|W H     B         H B H           W|
+|W         H   H     H B           W|
+|W     H             H       B     W|
+|W       H       H H       H       W|
+|W       H H             H         W|
+|W H           B           H   B   W|
+|W               H     H B   H   H W|
+|W                 H               W|
+|W         H     H       M         W|
+|W     B   H   H   H               W|
+|W   H                             W|
+|W       H       H         H     H W|
+|W B                 H P         H W|
+|W         H B H     H             W|
+|W                 H   H B         W|
+|W W W W W W W W W W W W W W W W W W|
+
+Millhouse is alive and at (11,13) has 30 pants 31 money and 99 health
+|W W W W W W W W W W W W W W W W W W|
+|W         H   H                   W|
+|W H     B         H B H           W|
+|W         H   H     H B           W|
+|W     H             H       B     W|
+|W       H       H H       H       W|
+|W       H H             H         W|
+|W H           B           H   B   W|
+|W               H     H B   H   H W|
+|W                 H               W|
+|W         H     H       M         W|
+|W     B   H   H   H               W|
+|W   H                             W|
+|W       H       H         H     H W|
+|W B                 H P         H W|
+|W         H B H     H             W|
+|W                 H   H B         W|
+|W W W W W W W W W W W W W W W W W W|
+
+Millhouse is alive and at (11,13) has 30 pants 31 money and 99 health
+|W W W W W W W W W W W W W W W W W W|
+|W         H   H                   W|
+|W H     B         H B H           W|
+|W         H   H     H B           W|
+|W     H             H       B     W|
+|W       H       H H       H       W|
+|W       H H             H         W|
+|W H           B           H   B   W|
+|W               H     H B   H   H W|
+|W                 H               W|
+|W         H     H       M         W|
+|W     B   H   H   H               W|
+|W   H                             W|
+|W       H       H         H     H W|
+|W B                 H P         H W|
+|W         H B H     H             W|
+|W                 H   H B         W|
+|W W W W W W W W W W W W W W W W W W|
+
+Millhouse is alive and at (11,13) has 30 pants 31 money and 99 health
+|W W W W W W W W W W W W W W W W W W|
+|W         H   H                   W|
+|W H     B         H B H           W|
+|W         H   H     H B           W|
+|W     H             H       B     W|
+|W       H       H H       H       W|
+|W       H H             H         W|
+|W H           B           H   B   W|
+|W               H     H B   H   H W|
+|W                 H               W|
+|W         H     H       M         W|
+|W     B   H   H   H               W|
+|W   H                             W|
+|W       H       H         H     H W|
+|W B                 H P         H W|
+|W         H B H     H             W|
+|W                 H   H B         W|
+|W W W W W W W W W W W W W W W W W W|
+
+Millhouse is alive and at (11,13) has 30 pants 31 money and 99 health
+|W W W W W W W W W W W W W W W W W W|
+|W         H   H                   W|
+|W H     B         H B H           W|
+|W         H   H     H B           W|
+|W     H             H       B     W|
+|W       H       H H       H       W|
+|W       H H             H         W|
+|W H           B           H   B   W|
+|W               H     H B   H   H W|
+|W                 H               W|
+|W         H     H       M         W|
+|W     B   H   H   H               W|
+|W   H                             W|
+|W       H       H         H     H W|
+|W B                 H P         H W|
+|W         H B H     H             W|
+|W                 H   H B         W|
+|W W W W W W W W W W W W W W W W W W|
+
+Millhouse is alive and at (11,13) has 30 pants 31 money and 99 health
+|W W W W W W W W W W W W W W W W W W|
+|W         H   H                   W|
+|W H     B         H B H           W|
+|W         H   H     H B           W|
+|W     H             H       B     W|
+|W       H       H H       H       W|
+|W       H H             H         W|
+|W H           B           H   B   W|
+|W               H     H B   H   H W|
+|W                 H               W|
+|W         H     H       M         W|
+|W     B   H   H   H               W|
+|W   H                             W|
+|W       H       H         H     H W|
+|W B                 H P         H W|
+|W         H B H     H             W|
+|W                 H   H B         W|
+|W W W W W W W W W W W W W W W W W W|
+
+Millhouse is alive and at (11,13) has 30 pants 31 money and 99 health
+|W W W W W W W W W W W W W W W W W W|
+|W         H   H                   W|
+|W H     B         H B H           W|
+|W         H   H     H B           W|
+|W     H             H       B     W|
+|W       H       H H       H       W|
+|W       H H             H         W|
+|W H           B           H   B   W|
+|W               H     H B   H   H W|
+|W                 H               W|
+|W         H     H       M         W|
+|W     B   H   H   H               W|
+|W   H                             W|
+|W       H       H         H     H W|
+|W B                 H P         H W|
+|W         H B H     H             W|
+|W                 H   H B         W|
+|W W W W W W W W W W W W W W W W W W|
+
+Millhouse is alive and at (11,13) has 30 pants 31 money and 99 health
+|W W W W W W W W W W W W W W W W W W|
+|W         H   H                   W|
+|W H     B         H B H           W|
+|W         H   H     H B           W|
+|W     H             H       B     W|
+|W       H       H H       H       W|
+|W       H H             H         W|
+|W H           B           H   B   W|
+|W               H     H B   H   H W|
+|W                 H               W|
+|W         H     H       M         W|
+|W     B   H   H   H               W|
+|W   H                             W|
+|W       H       H         H     H W|
+|W B                 H P         H W|
+|W         H B H     H             W|
+|W                 H   H B         W|
+|W W W W W W W W W W W W W W W W W W|
+
+Millhouse is alive and at (11,13) has 30 pants 31 money and 99 health
+|W W W W W W W W W W W W W W W W W W|
+|W         H   H                   W|
+|W H     B         H B H           W|
+|W         H   H     H B           W|
+|W     H             H       B     W|
+|W       H       H H       H       W|
+|W       H H             H         W|
+|W H           B           H   B   W|
+|W               H     H B   H   H W|

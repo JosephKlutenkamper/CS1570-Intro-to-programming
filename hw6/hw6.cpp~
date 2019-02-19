@@ -1,0 +1,65 @@
+//-----------------------------------------------------------------------------
+//Programmer: Joseph Klutenkamper   Instructor: Dileep
+//Assignment6: calculator using functions outside of main.
+//Date: 3/10/2017     
+//Class: CS1570                     Section: C
+//-----------------------------------------------------------------------------
+#include <iostream>
+#include "functions.h"
+using namespace std;
+
+
+int main()
+{
+  bool redo=true;
+  int choice;
+  do
+  {
+    choice=menu();
+    switch (choice)
+    {
+      case 1:
+        
+        showfact();
+        
+        break;
+        
+      case 2:
+      
+        exponentiate();
+         
+        break;
+        
+      case 3:
+        
+        sinx();
+        
+        break;
+        
+      case 4:
+       
+        findroot();
+       
+        break;
+        
+      case 5:
+      
+        findcos();
+        
+        break;
+        
+      case 6:
+        
+        signoff();
+        
+        redo=false;
+        break;
+        
+      default:
+      
+      cout << "How did you even get here?\n"; 
+    } 
+  }while(redo);
+  
+  return 0;
+}
